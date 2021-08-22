@@ -2,15 +2,15 @@
 
 class Duck {
   void swim() {
-    // do something
+    // ...
   }
 
   void quack() {
-    // do something
+    // ...
   }
 
   void eat() {
-    // do something
+    // ...
   }
 }
 
